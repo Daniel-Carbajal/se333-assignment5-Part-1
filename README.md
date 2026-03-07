@@ -3,7 +3,15 @@
 <h4>Course: SE333 Software Testing and Quality Assurance</h4>
 
 [![SE333 CI](https://github.com/Daniel-Carbajal/se333-assignment5-Part-1/actions/workflows/SE333_CI.yml/badge.svg)](https://github.com/Daniel-Carbajal/se333-assignment5-Part-1/actions/workflows/SE333_CI.yml)
-<h2>Description</h2>
+<h2>Project Overview</h2>
+This project is part one of a two part assignment consisting of the following goals related to testing:
+<ul>
+    <li>Writing JUnit (with Mockito) and Integration tests for an Amazon class</li>
+    <li>Setting up 2 CI pipelines in each part of the project using GitHub actions</li>
+    <li>Performing UI tests with Playwright manually vs automated with Playwright MCP and an AI agent</li>
+</ul>
+
+<h2>Part 1 Description</h2>
 This part of the project implements testing and continuous integration for the Amazon shopping cart system. The system calculates the total cost of items in a cart using pricing rules such as:
 <ul>
     <li>Regular Item Cost</li>
