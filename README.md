@@ -2,7 +2,7 @@
 <h4>Author: Daniel Carbajal</h4>
 <h4>Course: SE333 Software Testing and Quality Assurance</h4>
 
-[![SE333 CI](https://github.com/Daniel-Carbajal/se333-assignment5/actions/workflows/SE333_CI.yml/badge.svg)](https://github.com/Daniel-Carbajal/se333-assignment5/actions/workflows/SE333_CI.yml)
+[![SE333 CI](https://github.com/Daniel-Carbajal/se333-assignment5-Part-1/actions/workflows/SE333_CI.yml/badge.svg)](https://github.com/Daniel-Carbajal/se333-assignment5-Part-1/actions/workflows/SE333_CI.yml)
 <h2>Description</h2>
 This part of the project implements testing and continuous integration for the Amazon shopping cart system. The system calculates the total cost of items in a cart using pricing rules such as:
 <ul>
